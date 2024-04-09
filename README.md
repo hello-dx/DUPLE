@@ -1,2 +1,2 @@
 # DUPLE
-tensorflow implementation for Dual Preference Distribution Learning for Item Recommendation
+tensorflow implementation for DUPLE: Dual Preference Distribution Learning for Item Recommendation
